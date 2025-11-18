@@ -16,6 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TZ: Europe/Istanbul
+      FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
 
     steps:
       # 1. Repo'yu klonla
@@ -55,10 +56,10 @@ jobs:
           pip install -r requirements.txt
 
 
-      # 5. Scraper'ı çalıştır
-      - name: Resmi Gazete Tara ve Verileri Kaydet
+      # 5. Scraper'ı Firecrawl ile çalıştır
+      - name: Resmi Gazete Tara (Firecrawl)
         run: |
-          python test_scrape.py
+          python firecrawl_scrape.py
 
       # 6. Yeni verileri commit/push et
       - name: Git ayarları ve push
