@@ -1,7 +1,7 @@
 name: Resmi Gazete Tara
 
 on:
-  # Her gün 04:00 UTC (Türkiye saatiyle ~07:00)
+  # Her gün 05:00 UTC (Türkiye saatiyle ~08:00)
   schedule:
     - cron: '0 5 * * *'
 
@@ -37,13 +37,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-
-      # 5. Scraper'ı Firecrawl ile çalıştır
+      # 4. Scraper'ı Firecrawl ile çalıştır
       - name: Resmi Gazete Tara (Firecrawl)
         run: |
           python firecrawl_scrape.py
 
-      # 6. Yeni verileri commit/push et
+      # 5. Yeni verileri commit/push et
       - name: Git ayarları ve push
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -54,9 +53,6 @@ jobs:
           # JSON çıktıları stage et
           git add data/*.json
 
-          # Eğer scrape.db dosyasını da repoda saklamak istersen
-          # git add scrape.db
-
           # Stage edilmiş değişiklik var mı kontrol et
           if ! git diff --cached --quiet; then
             git commit -m "Resmi Gazete güncellendi: $(date '+%Y-%m-%d %H:%M:%S')"
@@ -65,3 +61,4 @@ jobs:
           else
             echo "Yeni değişiklik yok; commit atlanıyor."
           fi
+
