@@ -1,0 +1,50 @@
+{
+  "date": "2025-12-08",
+  "count": 6,
+  "tree": [
+    {
+      "html_title": "YÜRÜTME VE İDARE BÖLÜMÜ",
+      "subtitles": [
+        {
+          "html_subtitle": "YÖNETMELİKLER",
+          "items": [
+            {
+              "title": "–– Avrasya Üniversitesi Göç Çalışmaları Uygulama ve Araştırma Merkezi Yönetmeliği",
+              "url": "https://www.resmigazete.gov.tr/eskiler/2025/12/20251208-1.htm"
+            },
+            {
+              "title": "–– Bitlis Eren Üniversitesi Turizm Uygulama ve Araştırma Merkezi Yönetmeliği",
+              "url": "https://www.resmigazete.gov.tr/eskiler/2025/12/20251208-2.htm"
+            },
+            {
+              "title": "–– Ostim Teknik Üniversitesi Teknoloji Transfer Ofisi Uygulama ve Araştırma Merkezi Yönetmeliği",
+              "url": "https://www.resmigazete.gov.tr/eskiler/2025/12/20251208-3.htm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "html_title": "İLÂN BÖLÜMÜ",
+      "subtitles": [
+        {
+          "html_subtitle": null,
+          "items": [
+            {
+              "title": "a - Artırma, Eksiltme ve İhale İlânları",
+              "url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2025/12/20251208-3.htm"
+            },
+            {
+              "title": "b - Çeşitli İlânlar",
+              "url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2025/12/20251208-4.htm"
+            },
+            {
+              "title": "– T.C. Merkez Bankasınca Belirlenen Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
+              "url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2025/12/20251208-5.htm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
