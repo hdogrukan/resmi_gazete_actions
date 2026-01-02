@@ -1,0 +1,55 @@
+{
+  "date": "2026-01-02",
+  "count": 6,
+  "tree": [
+    {
+      "html_title": "YÜRÜTME VE İDARE BÖLÜMÜ",
+      "subtitles": [
+        {
+          "html_subtitle": "YÖNETMELİK",
+          "items": [
+            {
+              "title": "–– Ostim Teknik Üniversitesi Ahi Evran Anadolu Müteşebbisliği Uygulama ve Araştırma Merkezi Yönetmeliği",
+              "url": "https://www.resmigazete.gov.tr/eskiler/2026/01/20260102-1.htm"
+            }
+          ]
+        },
+        {
+          "html_subtitle": "TEBLİĞLER",
+          "items": [
+            {
+              "title": "–– Milli Emlak Genel Tebliği (Sıra No: 423)",
+              "url": "https://www.resmigazete.gov.tr/eskiler/2026/01/20260102-2.htm"
+            },
+            {
+              "title": "–– Mal ve Hizmet Tedarikinde Geç Ödemelerde Uygulanacak Temerrüt Faiz Oranı ve Alacağın Tahsili Masrafları İçin Talep Edilebilecek Asgari Giderim Tutarı Hakkında Tebliğ",
+              "url": "https://www.resmigazete.gov.tr/eskiler/2026/01/20260102-3.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "html_title": "İLÂN BÖLÜMÜ",
+      "subtitles": [
+        {
+          "html_subtitle": null,
+          "items": [
+            {
+              "title": "a - Artırma, Eksiltme ve İhale İlânları",
+              "url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/01/20260102-3.htm"
+            },
+            {
+              "title": "b - Çeşitli İlânlar",
+              "url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/01/20260102-4.htm"
+            },
+            {
+              "title": "– T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
+              "url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/01/20260102-5.htm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
