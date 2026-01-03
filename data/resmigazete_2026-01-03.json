@@ -1,0 +1,72 @@
+{
+  "date": "2026-01-03",
+  "count": 9,
+  "tree": [
+    {
+      "html_title": "YÜRÜTME VE İDARE BÖLÜMÜ",
+      "subtitles": [
+        {
+          "html_subtitle": "YÖNETMELİKLER",
+          "items": [
+            {
+              "title": "–– Vergi Daireleri Kuruluş ve Görev Yönetmeliği",
+              "url": "https://www.resmigazete.gov.tr/eskiler/2026/01/20260103-1.htm"
+            },
+            {
+              "title": "–– Bitki Koruma Ürünlerinin Ruhsatlandırılması ve Piyasaya Arzı Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+              "url": "https://www.resmigazete.gov.tr/eskiler/2026/01/20260103-2.htm"
+            },
+            {
+              "title": "–– Veteriner Teşhis ve Analiz Laboratuvarları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+              "url": "https://www.resmigazete.gov.tr/eskiler/2026/01/20260103-3.htm"
+            }
+          ]
+        },
+        {
+          "html_subtitle": "TEBLİĞLER",
+          "items": [
+            {
+              "title": "–– Posta ve Hızlı Kargo Yoluyla Taşınan Eşyanın Gümrük İşlemlerine İlişkin Tebliğ (Seri No: 1)'de Değişiklik Yapılmasına Dair Tebliğ (Seri No: 5)",
+              "url": "https://www.resmigazete.gov.tr/eskiler/2026/01/20260103-4.htm"
+            },
+            {
+              "title": "–– 2026 Yılı Helal Akreditasyon Kurumu İdari Para Cezalarının Yeniden Değerlemesine İlişkin Tebliğ",
+              "url": "https://www.resmigazete.gov.tr/eskiler/2026/01/20260103-5.htm"
+            }
+          ]
+        },
+        {
+          "html_subtitle": "KURUL KARARI",
+          "items": [
+            {
+              "title": "–– Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurulunun 29/12/2025 Tarihli ve 75935942-050.01.04-[01/38543] Sayılı Kararı",
+              "url": "https://www.resmigazete.gov.tr/eskiler/2026/01/20260103-6.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "html_title": "İLÂN BÖLÜMÜ",
+      "subtitles": [
+        {
+          "html_subtitle": null,
+          "items": [
+            {
+              "title": "a - Artırma, Eksiltme ve İhale İlânları",
+              "url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/01/20260103-3.htm"
+            },
+            {
+              "title": "b - Çeşitli İlânlar",
+              "url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/01/20260103-4.htm"
+            },
+            {
+              "title": "– T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
+              "url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/01/20260103-5.htm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
